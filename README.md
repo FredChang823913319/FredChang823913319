@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--  ## Hi there 👋 -->
 
 <!--
 **FredChang823913319/FredChang823913319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **backend engineering, ML deployment, distributed data systems, and healthcare software**
 
-- 📫 How to reach me **czcxw823913319@gmail.com**
+- 📫 How to reach me **fred.kehang.chang@gmail.com**
 
 - ⚡ Fun fact **I enjoy turning machine-learning models into scalable production systems.**
 

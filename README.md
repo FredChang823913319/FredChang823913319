@@ -19,8 +19,19 @@
 
 - ⚡ Fun fact **I enjoy turning machine-learning models into scalable production systems.**
 
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+</p> -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/fred-kehang-chang/" target="_blank">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
